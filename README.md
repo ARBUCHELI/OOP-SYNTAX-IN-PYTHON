@@ -31,5 +31,8 @@ Behind the scenes, Python is calling the <code>change_price</code> method:
 <code>Self</code> tells Python where to look in the computer's memory for the shirt_one object. And then Python changes the price of the shirt_one object. When you call the 
 <code>change_price</code> method, <code>shirt_one.change_price(12)</code>, <code>self</code> is implicitly passed in.
 
-The word code>self</code> is just a convention. You could actually use any other name as long as you are consistent; however, you should always use <code>self</code> rather than 
-some other word or else you might confuse people.
+The word <code>self</code> is just a convention. You could actually use any other name as long as you are consistent; however, you should always use <code>self</code> rather than some other word or else you might confuse people.
+
+## Inspired in AWS Machine Learning Foundation Course.
+
+# Andrés R. Bücheli.
