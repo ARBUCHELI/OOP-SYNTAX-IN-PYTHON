@@ -33,6 +33,6 @@ Behind the scenes, Python is calling the <code>change_price</code> method:
 
 The word <code>self</code> is just a convention. You could actually use any other name as long as you are consistent; however, you should always use <code>self</code> rather than some other word or else you might confuse people.
 
-## Inspired in AWS Machine Learning Foundation Course.
+## Inspired in AWS Machine Learning Foundations Course.
 
-# Andrés R. Bücheli.
+# Adaptation as a repository: Andrés R. Bücheli.
