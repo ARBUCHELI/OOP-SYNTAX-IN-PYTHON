@@ -35,4 +35,4 @@ The word <code>self</code> is just a convention. You could actually use any othe
 
 ## Inspired in AWS Machine Learning Foundations Course.
 
-# Adaptation as a repository: Andrés R. Bücheli.
+# Adaptation as a repository: Andrés R. Bucheli.
